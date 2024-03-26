@@ -1,6 +1,6 @@
 # Trello API Testing with Postman
 
-This repository is committed to automating the testing of Trello APIs by leveraging a comprehensive toolkit that incorporates Postman collections and utilizes environments to optimize dynamic code, thereby reducing static code. The Trello API serves as an ideal platform for testing and learning, with test modules meticulously designed to encompass a broad spectrum of endpoints and scenarios.
+This repository is committed to automating the testing of Trello APIs by leveraging a comprehensive toolkit that incorporates Postman collections and utilizes environments variables to optimize dynamic code, thereby reducing static code. The Trello API serves as an ideal platform for testing and learning, with test modules meticulously designed to encompass a broad spectrum of endpoints and scenarios.
 
 ## Table of Contents
 
