@@ -41,3 +41,4 @@ This repository is committed to automating the testing of Trello APIs by leverag
 If you have any questions, suggestions, or issues related to this project, please feel free to contact us. We welcome your feedback and contributions.
 
 - Email: byomarwael@gmail.com
+- Email: ahmedmagdy_trust@hotmail.com
