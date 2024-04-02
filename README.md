@@ -2,12 +2,12 @@
 
 This repository is committed to automating the testing of Trello APIs by leveraging a comprehensive toolkit that incorporates Postman collections and utilizes environments variables to optimize dynamic code, thereby reducing static code. The Trello API serves as an ideal platform for testing and learning, with test modules meticulously designed to encompass a broad spectrum of endpoints and scenarios.
 
-## Table of Contents
+## Tools Used
 
-- [Technologies Used](#technologies-used)
-- [Prerequisites](#prerequisites)
-- [Test Cases](#test-cases)
-- [Contact](#contact)
+Selenium WebDriver: Web automation library for interacting with web elements.
+TestNG: Testing framework for organizing and executing tests.
+Page Object Model (POM): Design pattern for maintaining test scripts and page objects separately.
+Assertions: Used to validate expected outcomes of test executions.
 
 ## Technologies Used
 
