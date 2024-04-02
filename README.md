@@ -4,10 +4,10 @@ This repository is committed to automating the testing of Trello APIs by leverag
 
 ## Tools Used
 
-Selenium WebDriver: Web automation library for interacting with web elements.
-TestNG: Testing framework for organizing and executing tests.
-Page Object Model (POM): Design pattern for maintaining test scripts and page objects separately.
-Assertions: Used to validate expected outcomes of test executions.
+- [Technologies Used](#technologies-used)
+- [Prerequisites](#prerequisites)
+- [Test Cases](#test-cases)
+- [Contact](#contact)
 
 ## Technologies Used
 
